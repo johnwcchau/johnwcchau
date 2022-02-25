@@ -1,8 +1,11 @@
 john_at_harmon.hk
 
-### 220225
+### 220225 **Fck react-native**
 
-**Fck react-native**
+_Learn once, write anywhere_ ???
+
+Really?
+
 Today spending hours on installing and configuring react-native to run a simple project, so many errors
 
 kinder know why, react-native is a framework building on some other framework, and without stable apis between all of them errors can be expected, and that's why I hate using something like this, tried a year ago and gave up because of errors.
