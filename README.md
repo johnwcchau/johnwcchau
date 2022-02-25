@@ -23,3 +23,10 @@ Oops:
 Error: ENOENT: no such file or directory, open 'X:\data\codes\Auth0\http:\localhost:8081\index.bundle?platform=android&dev=true&minify=false&app=com.auth0&modulesOnly=false&runModule=true'
 ```
 Google for that, no much result, tried all, clear cache, npm install, restart machine... ok enough, fck u, let me create a new project.
+
+And then you guess?
+```
+error: Error: Unable to resolve module react-navigation from X:\data\codes\Auth0\App.js: react-navigation could not be found within the project or in these directories:
+  node_modules
+```
+haha, hahaha, i am not that stupid to not install react-navigation, i even remove node_modules and yarn install, ok fck me, had enough!
