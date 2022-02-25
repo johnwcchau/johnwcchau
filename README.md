@@ -26,3 +26,10 @@ Oops:
 Error: ENOENT: no such file or directory, open 'X:\data\codes\Auth0\http:\localhost:8081\index.bundle?platform=android&dev=true&minify=false&app=com.auth0&modulesOnly=false&runModule=true'
 ```
 Google for that, no much result, tried all, clear cache, npm install, restart machine... ok enough, fck u, let me create a new project.
+
+OK fixed, I should say this is my bad, or can I?
+I just missing 1 line in App.js:
+```javascript
+import React from 'react';
+```
+That's all, haha, missing that line, which seems do nothing to my App.js, causing ENOENT??? ok you win
