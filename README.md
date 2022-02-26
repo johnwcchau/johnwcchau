@@ -7,7 +7,7 @@ I do freelance, contact me at john_at_harmon_hk
 
 I write mostly back-end but front-end is also capable.
 - Android JAVA (sorry no Kotlin experience)
-- C/C++ (not just native library but embedding application/microcontrollers, not that Arduino but FreeRToS / register programming)
+- C/C++ (not just native library but embedding application/microcontrollers, not only Arduino but FreeRToS / register programming)
 - iOS Swift
 - C# (long time no touch, last version should be 2.0 / 3.5)
 - Python
