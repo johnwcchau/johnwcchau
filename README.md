@@ -16,3 +16,6 @@ I write mostly back-end but front-end is also capable.
 I write many native codes, recent years I do many audio processing, Fresher from HeadacheSound is one of my work.
 
 I do machine learning from 2021, not "top-notch", but definitely have experience.
+- sklearn pipelines
+- Boost/Bagging algorithm
+- Tensorflow / Pytorch
