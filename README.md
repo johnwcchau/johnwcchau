@@ -38,9 +38,8 @@ I write mostly back-end but front-end is also capable.
 - C/C++
 - iOS Swift
 - C#
-  ~~- *long time no touch, last version should be 2.0 / 3.5*~~
 - Python3.9
-- Javascript / ES2015 / HTML5 / CSS3
+- Javascript / Typescript / HTML5 / CSS3
 - .net core
 - ASP.net
 - VB6/ASP classic
