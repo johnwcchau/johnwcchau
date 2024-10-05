@@ -6,7 +6,7 @@ I do freelance, contact me at john_at_harmon_hk
     - STM8
     - AVR
     - Arm Cortex-M
-      - Standalone / FreeRTOS
+      - Bare-metal / FreeRTOS
     - Arm Cortex-A
       - u-boot
       - linux kernel driver
@@ -22,7 +22,7 @@ I do freelance, contact me at john_at_harmon_hk
     - PCIe / m.2 signals
     - 1GBASE-T switches
   - USB-PD 20V multiport charger
-  - Given datasheets and specs I am confident to play with DDR layouts
+  - Provided datasheets and specs I am confident to play with DDR layouts
 - Product Engineering (Solidworks)
   - OMNI (HeadacheSound) 
     - Plastic moulding
@@ -38,8 +38,9 @@ I write mostly back-end but front-end is also capable.
 - C/C++
 - iOS Swift
 - C#
-- Python3.9
+- Python 3.9+
 - Javascript / Typescript / HTML5 / CSS3
+- PHP
 - .net core
 - ASP.net
 - VB6/ASP classic
@@ -50,3 +51,5 @@ I do machine learning from 2021, not "top-notch", but definitely have experience
 - sklearn pipelines
 - Boost/Bagging algorithm
 - Tensorflow / Pytorch
+- chatgpt / llama fine-tuning
+- stable-diffusions
