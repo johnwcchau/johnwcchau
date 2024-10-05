@@ -22,6 +22,7 @@ I do freelance, contact me at john_at_harmon_hk
     - PCIe / m.2 signals
     - 1GBASE-T switches
   - USB-PD 20V multiport charger
+  - SBCs with Allwinner / Rockchip processors
   - Provided datasheets and specs I am confident to play with DDR layouts
 - Product Engineering (Solidworks)
   - OMNI (HeadacheSound) 
